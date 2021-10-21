@@ -1,0 +1,14 @@
+{
+  "name": "mithril-tut",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "dev": "parcel serve ./index.html"
+  },
+  "dependencies": {
+    "mithril": "^2.0.4",
+    "node": "^17.0.1",
+    "parcel": "^2.0.0"
+  }
+}
